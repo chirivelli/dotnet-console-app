@@ -1,0 +1,15 @@
+/workspaces/dotnet-console-app/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/workspaces/dotnet-console-app/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/workspaces/dotnet-console-app/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/workspaces/dotnet-console-app/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/workspaces/dotnet-console-app/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/workspaces/dotnet-console-app/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
